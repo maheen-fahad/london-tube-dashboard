@@ -1,0 +1,270 @@
+passenger_name,matched_station_key,score,match_type
+Acton Town,acton town,100,exact
+Aldgate,aldgate,100,exact
+Aldgate East,aldgate east,100,exact
+Alperton,alperton,100,exact
+Amersham,amersham,100,exact
+Angel,angel,100,exact
+Archway,archway,100,exact
+Arnos Grove,arnos grove,100,exact
+Arsenal,arsenal,100,exact
+Baker Street,baker street,100,exact
+Balham,balham,100,exact
+Bank and Monument,monument,64,fuzzy
+Barbican,barbican,100,exact
+Barking,barking,100,exact
+Barkingside,barkingside,100,exact
+Barons Court,barons court,100,exact
+Battersea Power Station,battersea power station,100,exact
+Bayswater,bayswater,100,exact
+Becontree,becontree,100,exact
+Belsize Park,belsize park,100,exact
+Bermondsey,bermondsey,100,exact
+Bethnal Green,bethnal green,100,exact
+Blackfriars,blackfriars,100,exact
+Blackhorse Road,blackhorse road,100,exact
+Bond Street,bond street,100,exact
+Borough,borough,100,exact
+Boston Manor,boston manor,100,exact
+Bounds Green,bounds green,100,exact
+Bow Road,bow road,100,exact
+Brent Cross,brent cross,100,exact
+Brixton,brixton,100,exact
+Bromley-by-Bow,bromley by bow,100,exact
+Buckhurst Hill,buckhurst hill,100,exact
+Burnt Oak,burnt oak,100,exact
+Caledonian Road,caledonian road,100,exact
+Camden Town,camden town,100,exact
+Canada Water,canada water,100,exact
+Canary Wharf,canary wharf,100,exact
+Canning Town,canning town,100,exact
+Cannon Street,cannon street,100,exact
+Canons Park,canons park,100,exact
+Chalfont & Latimer,chalfont and latimer,100,exact
+Chalk Farm,chalk farm,100,exact
+Chancery Lane,chancery lane,100,exact
+Charing Cross,charing cross,100,exact
+Chesham,chesham,100,exact
+Chigwell,chigwell,100,exact
+Chiswick Park,chiswick park,100,exact
+Chorleywood,chorleywood,100,exact
+Clapham Common,clapham common,100,exact
+Clapham North,clapham north,100,exact
+Clapham South,clapham south,100,exact
+Cockfosters,cockfosters,100,exact
+Colindale,colindale,100,exact
+Colliers Wood,colliers wood,100,exact
+Covent Garden,covent garden,100,exact
+Croxley,croxley,100,exact
+Dagenham East,dagenham east,100,exact
+Dagenham Heathway,dagenham heathway,100,exact
+Debden,debden,100,exact
+Dollis Hill,dollis hill,100,exact
+Ealing Broadway,ealing broadway,100,exact
+Ealing Common,ealing common,100,exact
+Earl's Court,earl s court,100,exact
+East Acton,east acton,100,exact
+East Finchley,east finchley,100,exact
+East Ham,east ham,100,exact
+East Putney,east putney,100,exact
+Eastcote,eastcote,100,exact
+Edgware,edgware,100,exact
+Edgware Road (Bak),edgware road bakerloo,86,fuzzy
+Edgware Road (DIS),edgware road bakerloo,70,fuzzy
+Elephant & Castle,elephant and castle,100,exact
+Elm Park,elm park,100,exact
+Embankment,embankment,100,exact
+Epping,epping,100,exact
+Euston,euston,100,exact
+Euston Square,euston square,100,exact
+Fairlop,fairlop,100,exact
+Farringdon,farringdon,100,exact
+Finchley Central,finchley central,100,exact
+Finchley Road,finchley road,100,exact
+Finsbury Park,finsbury park,100,exact
+Fulham Broadway,fulham broadway,100,exact
+Gants Hill,gants hill,100,exact
+Gloucester Road,gloucester road,100,exact
+Golders Green,golders green,100,exact
+Goldhawk Road,goldhawk road,100,exact
+Goodge Street,goodge street,100,exact
+Grange Hill,grange hill,100,exact
+Great Portland Street,great portland street,100,exact
+Green Park,green park,100,exact
+Greenford,greenford,100,exact
+Gunnersbury,gunnersbury,100,exact
+Hainault,hainault,100,exact
+Hammersmith (DIS),hammersmith distandpicc line,70,fuzzy
+Hammersmith (H&C),hammersmith handc line,87,fuzzy
+Hampstead,hampstead,100,exact
+Hanger Lane,hanger lane,100,exact
+Harlesden,harlesden,100,exact
+Harrow & Wealdstone,harrow and wealdstone,100,exact
+Harrow-on-the-Hill,harrow on the hill,100,exact
+Hatton Cross,hatton cross,100,exact
+Heathrow Terminal 4,heathrow terminal 4,100,exact
+Heathrow Terminal 5,heathrow terminal 5,100,exact
+Heathrow Terminals 123,heathrow terminal 4,88,fuzzy
+Hendon Central,hendon central,100,exact
+High Barnet,high barnet,100,exact
+High Street Kensington,high street kensington,100,exact
+Highbury & Islington,highbury and islington,100,exact
+Highgate,highgate,100,exact
+Hillingdon,hillingdon,100,exact
+Holborn,holborn,100,exact
+Holland Park,holland park,100,exact
+Holloway Road,holloway road,100,exact
+Hornchurch,hornchurch,100,exact
+Hounslow Central,hounslow central,100,exact
+Hounslow East,hounslow east,100,exact
+Hounslow West,hounslow west,100,exact
+Hyde Park Corner,hyde park corner,100,exact
+Ickenham,ickenham,100,exact
+Kennington,kennington,100,exact
+Kensal Green,kensal green,100,exact
+Kentish Town,kentish town,100,exact
+Kenton,kenton,100,exact
+Kew Gardens,kew gardens,100,exact
+Kilburn,kilburn,100,exact
+Kilburn Park,kilburn park,100,exact
+King's Cross St. Pancras,king s cross saint pancras,100,exact
+Kingsbury,kingsbury,100,exact
+Knightsbridge,knightsbridge,100,exact
+Ladbroke Grove,ladbroke grove,100,exact
+Lambeth North,lambeth north,100,exact
+Lancaster Gate,lancaster gate,100,exact
+Latimer Road,latimer road,100,exact
+Leicester Square,leicester square,100,exact
+Leyton,leyton,100,exact
+Leytonstone,leytonstone,100,exact
+Liverpool Street,liverpool street,100,exact
+London Bridge,london bridge,100,exact
+Loughton,loughton,100,exact
+Maida Vale,maida vale,100,exact
+Manor House,manor house,100,exact
+Mansion House,mansion house,100,exact
+Marble Arch,marble arch,100,exact
+Marylebone,marylebone,100,exact
+Mile End,mile end,100,exact
+Mill Hill East,mill hill east,100,exact
+Moor Park,moor park,100,exact
+Moorgate,moorgate,100,exact
+Morden,morden,100,exact
+Mornington Crescent,mornington crescent,100,exact
+Neasden,neasden,100,exact
+Newbury Park,newbury park,100,exact
+Nine Elms,nine elms,100,exact
+North Acton,north acton,100,exact
+North Ealing,north ealing,100,exact
+North Greenwich,north greenwich,100,exact
+North Harrow,north harrow,100,exact
+North Wembley,north wembley,100,exact
+Northfields,northfields,100,exact
+Northolt,northolt,100,exact
+Northwick Park,northwick park,100,exact
+Northwood,northwood,100,exact
+Northwood Hills,northwood hills,100,exact
+Notting Hill Gate,notting hill gate,100,exact
+Oakwood,oakwood,100,exact
+Old Street,old street,100,exact
+Osterley,osterley,100,exact
+Oval,oval,100,exact
+Oxford Circus,oxford circus,100,exact
+Paddington TfL,paddington,100,exact
+Park Royal,park royal,100,exact
+Parsons Green,parsons green,100,exact
+Perivale,perivale,100,exact
+Piccadilly Circus,piccadilly circus,100,exact
+Pimlico,pimlico,100,exact
+Pinner,pinner,100,exact
+Plaistow,plaistow,100,exact
+Preston Road,preston road,100,exact
+Putney Bridge,putney bridge,100,exact
+Queen's Park,queen s park,100,exact
+Queensbury,queensbury,100,exact
+Queensway,queensway,100,exact
+Ravenscourt Park,ravenscourt park,100,exact
+Rayners Lane,rayners lane,100,exact
+Redbridge,redbridge,100,exact
+Regent's Park,regent s park,100,exact
+Richmond,richmond,100,exact
+Rickmansworth,rickmansworth,100,exact
+Roding Valley,roding valley,100,exact
+Royal Oak,royal oak,100,exact
+Ruislip,ruislip,100,exact
+Ruislip Gardens,ruislip gardens,100,exact
+Ruislip Manor,ruislip manor,100,exact
+Russell Square,russell square,100,exact
+Seven Sisters,seven sisters,100,exact
+Shepherd's Bush,shepherd s bush market,81,fuzzy
+Shepherd's Bush Market,shepherd s bush market,100,exact
+Sloane Square,sloane square,100,exact
+Snaresbrook,snaresbrook,100,exact
+South Ealing,south ealing,100,exact
+South Harrow,south harrow,100,exact
+South Kensington,south kensington,100,exact
+South Kenton,south kenton,100,exact
+South Ruislip,south ruislip,100,exact
+South Wimbledon,south wimbledon,100,exact
+South Woodford,south woodford,100,exact
+Southfields,southfields,100,exact
+Southgate,southgate,100,exact
+Southwark,southwark,100,exact
+St James's Park,saint james s park,100,exact
+St John's Wood,saint john s wood,100,exact
+St Paul's,saint paul s,100,exact
+Stamford Brook,stamford brook,100,exact
+Stanmore,stanmore,100,exact
+Stepney Green,stepney green,100,exact
+Stockwell,stockwell,100,exact
+Stonebridge Park,stonebridge park,100,exact
+Stratford,stratford,100,exact
+Sudbury Hill,sudbury hill,100,exact
+Sudbury Town,sudbury town,100,exact
+Swiss Cottage,swiss cottage,100,exact
+Temple,temple,100,exact
+Theydon Bois,theydon bois,100,exact
+Tooting Bec,tooting bec,100,exact
+Tooting Broadway,tooting broadway,100,exact
+Tottenham Court Road,tottenham court road,100,exact
+Tottenham Hale,tottenham hale,100,exact
+Totteridge & Whetstone,totteridge and whetstone,100,exact
+Tower Hill,tower hill,100,exact
+Tufnell Park,tufnell park,100,exact
+Turnham Green,turnham green,100,exact
+Turnpike Lane,turnpike lane,100,exact
+Upminster,upminster,100,exact
+Upminster Bridge,upminster bridge,100,exact
+Upney,upney,100,exact
+Upton Park,upton park,100,exact
+Uxbridge,uxbridge,100,exact
+Vauxhall,vauxhall,100,exact
+Victoria,victoria,100,exact
+Walthamstow Central,walthamstow central,100,exact
+Wanstead,wanstead,100,exact
+Warren Street,warren street,100,exact
+Warwick Avenue,warwick avenue,100,exact
+Waterloo,waterloo,100,exact
+Watford,watford,100,exact
+Wembley Central,wembley central,100,exact
+Wembley Park,wembley park,100,exact
+West Acton,west acton,100,exact
+West Brompton,west brompton,100,exact
+West Finchley,west finchley,100,exact
+West Ham,west ham,100,exact
+West Hampstead,west hampstead,100,exact
+West Harrow,west harrow,100,exact
+West Kensington,west kensington,100,exact
+West Ruislip,west ruislip,100,exact
+Westbourne Park,westbourne park,100,exact
+Westminster,westminster,100,exact
+White City,white city,100,exact
+Whitechapel,whitechapel,100,exact
+Willesden Green,willesden green,100,exact
+Willesden Junction,willesden junction,100,exact
+Wimbledon,wimbledon,100,exact
+Wimbledon Park,wimbledon park,100,exact
+Wood Green,wood green,100,exact
+Wood Lane,wood lane,100,exact
+Woodford,woodford,100,exact
+Woodside Park,woodside park,100,exact
