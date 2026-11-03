@@ -1,0 +1,10 @@
+__pycache__/
+data/AC2025_AnnualisedEntryExit_public.xlsx
+data/connections.xlsx
+data/deneb.2.0.1.0.pbiviz
+data/entry_exit_clean.csv
+data/match_report.csv
+data/station_lines.csv
+data/station_lines_final.csv
+data/stations.csv
+data/stations_final.xlsx
