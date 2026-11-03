@@ -1,8 +1,8 @@
 # london-tube-dashboard
 Interactive Power BI dashboard showcasing every London Underground tube station. Hover over any station to see which lines serve it, and estimated entries and exits for that station. Built with Python, Excel, and Power BI using public Transport for London (TfL) data. 
 
-<img width="1775" height="812" alt="London Underground dashboard showing lines and station tooltip" src="https://github.com/user-attachments/assets/88fb66e1-85e8-4fee-972e-9b1f0e597223" /> 
-
+<img width="1775" height="812" alt="dashboard" src="https://github.com/user-attachments/assets/3c8de819-6a75-4ff1-8d9f-6a611242029b" />
+ 
 ## tools used 
 ### Python (pandas, requests, rapidfuzz, openpyxl)
 used to pull data from TfL API, cleaning, matching names across datasets, building final tables
